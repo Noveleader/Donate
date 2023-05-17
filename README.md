@@ -15,7 +15,7 @@ There are two different script, one is of donating which is hard coded with valu
 frontend.
 
 <h2> Frontend </h2>
-<p>Frontend part is kept pretty simple. It only have two buttons which are ```Connect to wallet``` and other is  ```Donate``` with a placeholder for input
+<p>Frontend part is kept pretty simple. It only have two buttons which are Connect to wallet and other is Donate with a placeholder for input
 from the Dapp user.</p>
 
 <img src="https://github.com/Noveleader/Donate/assets/91677627/a973c96d-3e42-4139-ab68-c8ab4846afa7" alt="Donation Website" width="auto" height="auto">
