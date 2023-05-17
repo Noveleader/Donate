@@ -1,7 +1,7 @@
 <h1> A Web App to Donate </h1>
 <hr>
 <p>The project leverages blockchain to make decentralized donations for the students who have backlogs. This is a sample project and 
-it is not going to be deployed on mainnet. But we deployed it on testnet. You can find the contract <a href="https://mumbai.polygonscan.com/address/0xb9aC3D271D01D31DE416F120aB02934C3CfE625D">here</a></p>
+it is not going to be deployed on mainnet. But we deployed it on testnet. You can find the contract <a href="https://mumbai.polygonscan.com/address/0xb9aC3D271D01D31DE416F120aB02934C3CfE625D">here.</a></p>
 
 <hr>
 
@@ -15,7 +15,8 @@ There are two different script, one is of donating which is hard coded with valu
 frontend.
 
 <h2> Frontend </h2>
-Frontend part is kept pretty simple. It only have two buttons which are ```Connect to wallet``` and other is  ```Donate``` with a placeholder for input
-from the Dapp user.
-<img src="https://github.com/Noveleader/Donate/assets/91677627/a973c96d-3e42-4139-ab68-c8ab4846afa7" alt="Donation Website" width="250" height="250">
+<p>Frontend part is kept pretty simple. It only have two buttons which are ```Connect to wallet``` and other is  ```Donate``` with a placeholder for input
+from the Dapp user.</p>
+
+<img src="https://github.com/Noveleader/Donate/assets/91677627/a973c96d-3e42-4139-ab68-c8ab4846afa7" alt="Donation Website" width="auto" height="auto">
 
