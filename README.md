@@ -4,7 +4,7 @@
 it is not going to be deployed on mainnet. </p>
 
 <hr>
-```Donate.sol```
+```Donating```
 It is a smart contract which have donating and withdrawing functionalities. It also maintains a mapping of addresses to their donations.
 
 ```Scripts```
