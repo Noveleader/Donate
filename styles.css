@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Global Styles */
+body {
+  background: linear-gradient(#010314, #4b29a7);
+  color: #FFFFFF;
+  font-family: 'Roboto', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+.head1 {
+  display: flex;
+  justify-content: center;
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 10px;
+  margin: 0;
+}
+
+.head2 {
+  display: flex;
+  justify-content: flex-end;
+  color: black;
+  background: white;
+  width: 160px;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: auto;
+  margin-top: 1px;
+  padding: 10px;
+  border: 2px solid grey;
+  border-radius: 20px;
+}
+
+.head3 {
+  text-align: center;
+  font-size: 24px;
+  margin: 30px 0;
+}
+
+/* Main Content */
+.head4 {
+  justify-content: center;
+  text-align: center;
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+.head5 {
+  display: flex;
+  justify-content: center;
+  color: black;
+  background: white;
+  width: 100px;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  padding: 10px;
+  border: 2px solid grey;
+  border-radius: 20px;
+  transition: background-color 0.3s ease-in-out;
+}
+.head5:hover{
+  background-color: rgb(163, 150, 150);
+}
+
+/* Footer */
+.head6 {
+  float: right;
+}
+
+/* Scroll Animation */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 1s ease-in-out;
+  opacity: 0;
+}
+.input{
+  width: 150px; 
+  margin: 0 auto;
+}
+.input-field{
+  border-radius: 25px;
+  border: 2px solid #609;
+  padding: 15px; 
+  height: 15px; 
+  width: 110px; 
+  margin: 0 auto;
+}
+
+
