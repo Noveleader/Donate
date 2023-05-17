@@ -3,8 +3,11 @@
 <p>The project leverages blockchain to make decentralized donations for the students who have backlogs. This is a sample project and 
 it is not going to be deployed on mainnet. </p>
 
+
 <hr>
-```Donating```
+
+
+```Donation```
 It is a smart contract which have donating and withdrawing functionalities. It also maintains a mapping of addresses to their donations.
 
 ```Scripts```
@@ -13,4 +16,4 @@ frontend.
 
 ```Frontend```
 Frontend part is kept pretty simple. It only have two buttons which are ```Connect to wallet``` and other is  ```Donate``` with a placeholder for input
-  from the Dapp user.
+from the Dapp user.
